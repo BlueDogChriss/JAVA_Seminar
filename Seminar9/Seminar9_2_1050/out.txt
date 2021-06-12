@@ -1,0 +1,23 @@
+seminar.seminar9.g1050.Student
+6
+id
+10
+grupa
+1050
+anul
+2
+nume
+Alexe Maria
+media
+9.5
+adresa
+seminar.seminar9.g1050.Adresa
+4
+judet
+Brasov
+localitate
+Brasov
+strada
+Calea Bucuresti
+nr
+2a

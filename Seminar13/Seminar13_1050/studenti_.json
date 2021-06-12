@@ -1,0 +1,39 @@
+{"Lista Studenti": [
+    {
+        "cnp": 160224343434,
+        "catalog": [
+            {
+                "numeDisciplina": "Programare Java",
+                "numarCredite": 4,
+                "nota": 8
+            },
+            {
+                "numeDisciplina": "POO",
+                "numarCredite": 4,
+                "nota": 7
+            }
+        ],
+        "nume": "Ionescu Dan"
+    },
+    {
+        "cnp": 12762476233,
+        "catalog": [
+            {
+                "numeDisciplina": "Algebra",
+                "numarCredite": 4,
+                "nota": 9
+            },
+            {
+                "numeDisciplina": "POO",
+                "numarCredite": 4,
+                "nota": 7
+            },
+            {
+                "numeDisciplina": "Probabilitati",
+                "numarCredite": 5,
+                "nota": 6
+            }
+        ],
+        "nume": "Popescu Ioana"
+    }
+]}

@@ -1,0 +1,51 @@
+{"Lista produse": [
+    {
+        "denumireProdus": "Franzela",
+        "clienti": [
+            {
+                "codClient": 1,
+                "cantitate": 1000,
+                "numeClient": "S.C. Json SRL"
+            },
+            {
+                "codClient": 2,
+                "cantitate": 3000,
+                "numeClient": "S.C. XML SRL"
+            },
+            {
+                "codClient": 3,
+                "cantitate": 350,
+                "numeClient": "S.C. Java SRL"
+            }
+        ],
+        "pretUnitar": 3,
+        "codProdus": 301
+    },
+    {
+        "denumireProdus": "Paine neagra integrala",
+        "clienti": [
+            {
+                "codClient": 4,
+                "cantitate": 1000,
+                "numeClient": "S.C. Alpha SRL"
+            },
+            {
+                "codClient": 2,
+                "cantitate": 3000,
+                "numeClient": "S.C. XML SRL"
+            },
+            {
+                "codClient": 5,
+                "cantitate": 4000,
+                "numeClient": "S.C. Betha SRL"
+            },
+            {
+                "codClient": 3,
+                "cantitate": 450,
+                "numeClient": "S.C. Java SRL"
+            }
+        ],
+        "pretUnitar": 10,
+        "codProdus": 302
+    }
+]}
