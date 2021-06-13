@@ -227,7 +227,8 @@ public class Main {
             System.out.println('\n');
 
             //Set de Salaria
-            Set<Salariat> salariatSet=listSal.stream().filter((salariat) -> (salariat.getSalariu()<3000)).collect(Collectors.toSet());
+            Set<Salariat> salariatSet=listSal.stream().filter((salariat)
+                    -> (salariat.getSalariu()<3000)).collect(Collectors.toSet());
             salariatSet.forEach(System.out::println);
             System.out.println('\n');
 

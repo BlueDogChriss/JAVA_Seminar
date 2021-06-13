@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Produse>
+    <Produs Cod_produs="301" Pret_unitar="3.0">
+        Franzela
+        <Client Cantitate="1000.0" Cod_client="1">S.C. Json SRL</Client>
+        <Client Cantitate="3000.0" Cod_client="2">S.C. XML SRL</Client>
+        <Client Cantitate="350.0" Cod_client="3">S.C. Java SRL</Client>
+    </Produs>
+    <Produs Cod_produs="302" Pret_unitar="10.0">
+        Paine neagra integrala
+        <Client Cantitate="1000.0" Cod_client="4">S.C. Alpha SRL</Client>
+        <Client Cantitate="3000.0" Cod_client="2">S.C. XML SRL</Client>
+        <Client Cantitate="4000.0" Cod_client="5">S.C. Betha SRL</Client>
+        <Client Cantitate="450.0" Cod_client="3">S.C. Java SRL</Client>
+    </Produs>
+</Produse>

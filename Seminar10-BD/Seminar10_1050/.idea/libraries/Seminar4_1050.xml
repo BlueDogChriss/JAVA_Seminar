@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Seminar4_1050">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Seminar4_1050.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sqlite-jdbc-3.34.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

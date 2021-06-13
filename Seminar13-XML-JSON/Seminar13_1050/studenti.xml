@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Studenti>
+    <Student CNP="160224343434">
+        Ionescu Dan
+        <Disciplina Nota="8" Numar_credite="4">Programare Java</Disciplina>
+        <Disciplina Nota="7" Numar_credite="4">POO</Disciplina>
+    </Student>
+    <Student CNP="12762476233">
+        Popescu Ioana
+        <Disciplina Nota="9" Numar_credite="4">Algebra</Disciplina>
+        <Disciplina Nota="7" Numar_credite="4">POO</Disciplina>
+        <Disciplina Nota="6" Numar_credite="5">Probabilitati</Disciplina>
+    </Student>
+</Studenti>
