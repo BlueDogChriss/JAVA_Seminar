@@ -1,0 +1,22 @@
+{"Lista Facturi": [
+    {
+        "repartizare": "persoane",
+        "denumire": "Apa calda",
+        "valoare": 800
+    },
+    {
+        "repartizare": "suprafata",
+        "denumire": "Caldura",
+        "valoare": 300
+    },
+    {
+        "repartizare": "apartament",
+        "denumire": "Gunoi",
+        "valoare": 100
+    },
+    {
+        "repartizare": "persoane",
+        "denumire": "Gaze naturale",
+        "valoare": 140
+    }
+]}
